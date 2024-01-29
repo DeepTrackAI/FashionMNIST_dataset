@@ -17,6 +17,22 @@ Each training and test example is assigned to one of the following labels:
 | 8 | Bag |
 | 9 | Ankle boot |
 
+## Usage
+
+To use the MNIST dataset in your project:
+
+1. Clone this repository to your local machine.
+2. Import the dataset into your machine learning framework of choice.
+3. Train or evaluate your models using the dataset.
+
+### Download via Command Line
+
+To clone the repository and access the MNIST dataset:
+
+```bash
+git clone github.com/DeepTrackAI/FashionMNIST_dataset
+cd FashionMNIST_dataset
+```
 
 ## Citing Fashion-MNIST
 If you use Fashion-MNIST in a scientific publication, we would appreciate references to the following paper:
