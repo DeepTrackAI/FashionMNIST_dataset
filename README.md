@@ -46,12 +46,12 @@ If you use this dataset in your research, you must follow the licensing requirem
 ```bash
 /FashionMNIST_dataset  
   ├── train/          # Training images
-  │   ├── 0_xxxxxx.png
-  │   ├── 1_xxxxxx.png
+  │   ├── 0_xxxxx.png
+  │   ├── 1_xxxxx.png
   │   └── ...
   └── test/           # Test images
-      ├── 0_xxxxxx.png
-      ├── 1_xxxxxx.png
+      ├── 0_xxxxx.png
+      ├── 1_xxxxx.png
       └── ...
 ```
 
