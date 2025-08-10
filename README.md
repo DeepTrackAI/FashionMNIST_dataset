@@ -26,7 +26,7 @@ from 10 categories, intended for benchmarking machine learning and computer visi
 - **Image Size**: 28×28 pixels  
 - **Color**: Grayscale  
 - **Labels**: 10 fashion product classes  
-- **Format**: PNG images, 8-bit
+- **Format**: PNG images, 8-bit per channel
 
 ---
 
