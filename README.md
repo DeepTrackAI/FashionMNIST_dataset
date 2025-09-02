@@ -11,7 +11,8 @@ from 10 categories, intended for benchmarking machine learning and computer visi
 - **Number of images**: 70,000 images (60,000 training + 10,000 test)  
 - **Image Size**: 28×28 pixels
 - **Image format**: 8-bit grayscale PNG
-- **Labels**: 10 fashion product classes 
+- **Labels**: 10 fashion product classes
+  
 | Label | Description |
 |-------|-------------|
 | 0     | T-shirt/top |
