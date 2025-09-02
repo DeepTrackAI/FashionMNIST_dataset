@@ -7,7 +7,11 @@ This DeepTrackAI repository provides a copy of the **Fashion-MNIST** dataset, cr
 Fashion-MNIST contains grayscale images of fashion products 
 from 10 categories, intended for benchmarking machine learning and computer vision algorithms. Each image is 28×28 pixels (grayscale) and associated with a single label from one of 10 classes. The dataset is split into a training set of 60,000 images and a test set of 10,000 images.
 
-### Labels
+### Summary
+- **Number of images**: 70,000 images (60,000 training + 10,000 test)  
+- **Image Size**: 28×28 pixels
+- **Image format**: 8-bit grayscale PNG
+- **Labels**: 10 fashion product classes 
 | Label | Description |
 |-------|-------------|
 | 0     | T-shirt/top |
@@ -20,13 +24,6 @@ from 10 categories, intended for benchmarking machine learning and computer visi
 | 7     | Sneaker     |
 | 8     | Bag         |
 | 9     | Ankle boot  |
-
-### Summary
-- **Dataset Size**: 70,000 images (60,000 training + 10,000 test)  
-- **Image Size**: 28×28 pixels  
-- **Color**: Grayscale  
-- **Labels**: 10 fashion product classes  
-- **Format**: PNG images, 8-bit per channel
 
 ---
 
