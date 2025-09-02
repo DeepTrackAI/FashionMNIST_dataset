@@ -2,14 +2,13 @@
 
 ## Overview
 
-This DeepTrackAI repository provides a copy of the **Fashion-MNIST** dataset, created by Zalando Research as a **drop-in replacement** for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/).  
+This DeepTrackAI repository provides a copy of the **Fashion-MNIST** dataset available at the [fashion-mnist GitHub Repository](https://github.com/zalandoresearch/fashion-mnist). The dataset was created by Zalando Research as a drop-in replacement for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/).  
 
-Fashion-MNIST contains grayscale images of fashion products 
-from 10 categories, intended for benchmarking machine learning and computer vision algorithms. Each image is 28×28 pixels (grayscale) and associated with a single label from one of 10 classes. The dataset is split into a training set of 60,000 images and a test set of 10,000 images.
+Fashion-MNIST contains grayscale images of fashion products from 10 categories, intended for benchmarking machine learning and computer vision algorithms.
 
 ### Summary
-- **Number of images**: 70,000 images (60,000 training + 10,000 test)  
-- **Image Size**: 28×28 pixels
+- **Number of images**: 70,000 (60,000 training + 10,000 test)  
+- **Image size**: 28 × 28 pixels
 - **Image format**: 8-bit grayscale PNG
 - **Labels**: 10 fashion product classes
   
