@@ -41,18 +41,19 @@ If you use this dataset in your research, please follow the licensing requiremen
 ## Dataset Structure
 
 ```bash
-/FashionMNIST_dataset  
-  ├── train/          # Training images
-  │   ├── 0_xxxxx.png
-  │   ├── 1_xxxxx.png
+/FashionMNIST_dataset   
+  ├── train/          # Training images (labeled by filename)
+  │   ├── 0_000000.png
+  │   ├── 0_000001.png
   │   └── ...
-  └── test/           # Test images
-      ├── 0_xxxxx.png
-      ├── 1_xxxxx.png
+  └── test/           # Test images (labeled by filename)
+      ├── 0_000000.png
+      ├── 0_000001.png
       └── ...
+
 ```
 
-Each filename begins with its class label (0–9), followed by an identifier.
+Each filename begins with its class label (0–9), followed by a sequential numerical identifier.
 
 ---
 
