@@ -33,7 +33,7 @@ Fashion-MNIST contains grayscale images of fashion products from 10 categories, 
 - **Authors**: Han Xiao, Kashif Rasul, Roland Vollgraf (Zalando Research)  
 - **Source**: [Fashion-MNIST GitHub Repository](https://github.com/zalandoresearch/fashion-mnist)
 - **Reference article**: Xiao, H., Rasul, K., & Vollgraf, R. *arXiv*:1708.07747 (2017). [https://arxiv.org/abs/1708.07747](https://arxiv.org/abs/1708.07747)
-- **License**: [MIT License](https://github.com/zalandoresearch/fashion-mnist/blob/master/LICENSE)
+- **License**: [MIT](https://github.com/zalandoresearch/fashion-mnist/blob/master/LICENSE)
 
 If you use this dataset in your research, please follow the licensing requirements and properly attribute the original authors.
 
