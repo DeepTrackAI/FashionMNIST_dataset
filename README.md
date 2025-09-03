@@ -88,14 +88,15 @@ Zalando Research. *Fashion-MNIST*. GitHub (2017). Retrieved from [github.com/zal
 Xiao H, Rasul K, Vollgraf R. *Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms*. arXiv preprint arXiv:1708.07747 (2017). [https://arxiv.org/abs/1708.07747](https://arxiv.org/abs/1708.07747)
 
 ```bibtex
-@online{xiao2017fashionmnist,
-  author        = {Han Xiao and Kashif Rasul and Roland Vollgraf},
-  title         = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms},
-  year          = {2017},
-  eprinttype    = {arXiv},
-  eprint        = {1708.07747},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.LG}
+@misc{xiao2017fashionmnist,
+      title={Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms}, 
+      author={Han Xiao and Kashif Rasul and Roland Vollgraf},
+      year={2017},
+      eprint={1708.07747},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/1708.07747},
+      doi={10.48550/arXiv.1708.07747}
 }
 ```
 
