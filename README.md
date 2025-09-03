@@ -73,7 +73,7 @@ cd FashionMNIST_dataset
 If you use this dataset, please cite both the FashionMNIST dataset and the reference article.
 
 ### Cite the dataset:
-Zalando Research. *Fashion-MNIST GitHub Repository*. Retrieved from [github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
+Zalando Research. *Fashion-MNIST*. GitHub (2017). Retrieved from [github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
 
 ```bibtex
 @misc{fashionmnist,
