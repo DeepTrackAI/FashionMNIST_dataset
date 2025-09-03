@@ -31,7 +31,8 @@ Fashion-MNIST contains grayscale images of fashion products from 10 categories, 
 
 - **Title**: Fashion-MNIST  
 - **Authors**: Han Xiao, Kashif Rasul, Roland Vollgraf (Zalando Research)  
-- **Source**: [Fashion-MNIST GitHub Repository](https://github.com/zalandoresearch/fashion-mnist)  
+- **Source**: [Fashion-MNIST GitHub Repository](https://github.com/zalandoresearch/fashion-mnist)
+- **Reference article**: Xiao, H., Rasul, K., & Vollgraf, R. *arXiv*:1708.07747 (2017). [https://arxiv.org/abs/1708.07747](https://arxiv.org/abs/1708.07747)
 - **License**: [MIT License](https://github.com/zalandoresearch/fashion-mnist/blob/master/LICENSE)
 
 If you use this dataset in your research, please follow the licensing requirements and properly attribute the original authors.
@@ -69,9 +70,21 @@ cd FashionMNIST_dataset
 
 ## Attribution
 
-This replication dataset is based on the original Fashion-MNIST dataset. When using this replication, please cite the original paper.
+If you use this dataset, please cite both the FashionMNIST dataset and the reference article.
 
-### Cite the original paper:
+### Cite the dataset:
+Zalando Research. *Fashion-MNIST GitHub Repository*. Retrieved from [github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
+
+```bibtex
+@misc{fashionmnist,
+  title        = {Fashion-MNIST GitHub Repository},
+  author       = {Zalando Research},
+  year         = {2017},
+  howpublished = {\url{https://github.com/zalandoresearch/fashion-mnist}}
+}
+```
+
+### Cite the reference article:
 Xiao H, Rasul K, Vollgraf R. *Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms*. arXiv preprint arXiv:1708.07747 (2017). [https://arxiv.org/abs/1708.07747](https://arxiv.org/abs/1708.07747)
 
 ```bibtex
@@ -89,29 +102,4 @@ Xiao H, Rasul K, Vollgraf R. *Fashion-MNIST: a Novel Image Dataset for Benchmark
 ---
 
 ## License
-
-This dataset is distributed under the **MIT License**.  
-
-```
-MIT License
-
-Copyright (c) 2017 Zalando SE
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
-```
+This replication dataset is shared under the [MIT License](https://github.com/zalandoresearch/fashion-mnist/blob/master/LICENSE), consistent with the original licensing terms.
